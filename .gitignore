@@ -135,7 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.validationvenv/
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.jpg
